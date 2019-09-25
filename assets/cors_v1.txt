@@ -184,12 +184,12 @@ xqimg.imedao.com
 xavatar.imedao.com
 
 # ???
-img-l3.xvideos-cdn.com
-static-egc.xvideos-cdn.com
-img-hw.xvideos-cdn.com
-img-hw.xnxx-cdn.com
-static-egc.xnxx-cdn.com
-di.phncdn.com
-cv.phncdn.com
-roomimg.stream.highwebmedia.com
-w3.cdn.anvato.net
+#img-l3.xvideos-cdn.com
+#static-egc.xvideos-cdn.com
+#img-hw.xvideos-cdn.com
+#img-hw.xnxx-cdn.com
+#static-egc.xnxx-cdn.com
+#di.phncdn.com
+#cv.phncdn.com
+#roomimg.stream.highwebmedia.com
+#w3.cdn.anvato.net
