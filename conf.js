@@ -29,7 +29,7 @@ jsproxy_config({
     'mysite': {
       label: '当前站点',
       lines: {
-        [location.host]: 1,
+        '149.248.8.227.sslip.io:8443': 1,
       }
     },
     // 该节点用于加载大体积的静态资源
