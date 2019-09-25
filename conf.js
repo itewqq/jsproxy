@@ -16,9 +16,8 @@ jsproxy_config({
       label: '演示服务-香港节点',
       lines: {
         // 主机:权重
-        '149.248.8.227.sslip.io:8443': 1,
-        //'node-aliyun-hk-1.etherdream.com:8443': 1,
-        //'node-aliyun-hk-2.etherdream.com:8443': 2,
+        'node-aliyun-hk-1.etherdream.com:8443': 1,
+        'node-aliyun-hk-2.etherdream.com:8443': 2,
       }
     },
     'demo-sg': {
@@ -54,7 +53,7 @@ jsproxy_config({
   /**
    * 默认节点
    */
-  node_default: 'demo-hk',
+  node_default: 'mysite',
   //node_default: /jsproxy-demo\.\w+$/.test(location.host) ? 'demo-hk' : 'mysite',
 
   /**
